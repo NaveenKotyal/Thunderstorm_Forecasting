@@ -1,9 +1,3 @@
 pandas
-numpy
 scikit-learn
-fastapi
-uvicorn
-matplotlib
-seaborn
 streamlit
-mlflow
